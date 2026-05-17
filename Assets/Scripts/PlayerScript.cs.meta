@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f30bae2f7b711b74ca74daf8c7defac4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jumpAction: {instanceID: 0}
+  - pushRightAction: {instanceID: 0}
+  - pushLeftAction: {instanceID: 0}
+  - shootAction: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
